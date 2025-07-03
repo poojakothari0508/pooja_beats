@@ -21,8 +21,45 @@ this mini-project was built to demonstrate DOM manipulation, event handling, and
 
 
 
-## 💻 How to Run Locally
+ How to Run Locally
 
-1. Clone this repo:
+Clone this repo:
    ```bash
    git clone https://github.com/poojakothari0508/pooja_beats.git
+
+
+Learning Outcomes
+Practiced JavaScript DOM events (keydown, transitionend).
+
+Worked with Audio objects to control media playback.
+
+Gained confidence in styling with CSS transitions and animations.
+ 
+ 
+FOLDER STRUCTURE
+pgsql
+Copy
+Edit
+pooja_beats/
+├── index.html
+├── style.css
+├── script.js
+└── sounds/
+    ├── boom.wav
+    ├── clap.wav
+    ├── hihat.wav
+    ├── kick.wav
+    ├── openhat.wav
+    ├── ride.wav
+    ├── snare.wav
+    ├── tink.wav
+    └── tom.wav
+Feedback
+Have suggestions or want to contribute? Feel free to open issues or pull requests! 🎉
+
+License
+This project is open-source and free to use under the MIT License.
+
+
+
+   
