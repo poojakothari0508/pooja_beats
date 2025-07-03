@@ -55,7 +55,7 @@ pooja_beats/
     ├── tink.wav
     └── tom.wav
 Feedback
-Have suggestions or want to contribute? Feel free to open issues or pull requests! 🎉
+Have suggestions or want to contribute? Feel free to open issues or pull requests! 
 
 License
 This project is open-source and free to use under the MIT License.
